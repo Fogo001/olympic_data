@@ -1,5 +1,7 @@
 # olympic_data
 
+This project focuses on data cleaning using Python. The primary goal is to transform raw data into a clean dataset that is ready for analysis. The process involves handling missing values, correcting data types, removing duplicates, and other essential data preprocessing steps. The cleaned data is stored and documented for further analysis and use.
+
 ```python
 1import pandas as pd
 import numpy as np
